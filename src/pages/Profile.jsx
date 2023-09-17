@@ -21,7 +21,7 @@ function Profile() {
          </div>
         
          </div>
-         <div>
+         <div className="m-20">
           <PlayerPuzzles />
          </div>
          
